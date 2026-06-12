@@ -1,1 +1,1 @@
-Sleep Apnea Model.
+Streamlit app for sleep apnea detection.
